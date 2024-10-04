@@ -4,5 +4,51 @@
     "userId": "surya",
     "password": "123",
     "isAdmin": true
+  },
+  {
+    "name": "Akash",
+    "userId": "a",
+    "password": "a",
+    "isAdmin": false
+  },
+  {
+    "name": "Aravind the mass",
+    "userId": "b",
+    "password": "b",
+    "isAdmin": false,
+    "borrowedBooks": [
+      {
+        "ISBN": "1987654321",
+        "bookName": "Java",
+        "author": "James Gosling",
+        "status": false
+      },
+      {
+        "ISBN": "1234567890",
+        "bookName": "Python",
+        "author": "Guido van Rossum",
+        "status": false
+      }
+    ]
+  },
+  {
+    "name": "saran",
+    "userId": "t",
+    "password": "t",
+    "isAdmin": false,
+    "borrowedBooks": [
+      {
+        "ISBN": "1472583690",
+        "bookName": "Kotlin",
+        "author": "JetBrains",
+        "status": false
+      }
+    ]
+  },
+  {
+    "name": "t",
+    "userId": "t",
+    "password": "t",
+    "isAdmin": false
   }
 ]

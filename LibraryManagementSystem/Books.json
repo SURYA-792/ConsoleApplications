@@ -1,62 +1,62 @@
 [
-    {
-        "ISBN": 1234567890,
-        "bookName": "Python",
-        "author": "Guido van Rossum",
-        "status": true
-    },
-    {
-        "ISBN": 1987654321,
-        "bookName": "Java",
-        "author": "James Gosling",
-        "status": true
-    },
-    {
-        "ISBN": 2147483640,
-        "bookName": "C++",
-        "author": "Bjarne Stroustrup",
-        "status": true
-    },
-    {
-        "ISBN": 1122334455,
-        "bookName": "JavaScript",
-        "author": "Brendan Eich",
-        "status": true
-    },
-    {
-        "ISBN": 1029384756,
-        "bookName": "Ruby",
-        "author": "Yukihiro Matsumoto",
-        "status": true
-    },
-    {
-        "ISBN": 2098765432,
-        "bookName": "Swift",
-        "author": "Chris Lattner",
-        "status": true
-    },
-    {
-        "ISBN": 1938472010,
-        "bookName": "Go",
-        "author": "Robert Griesemer",
-        "status": true
-    },
-    {
-        "ISBN": 1827364546,
-        "bookName": "PHP",
-        "author": "Rasmus Lerdorf",
-        "status": true
-    },
-    {
-        "ISBN": 1472583690,
-        "bookName": "Kotlin",
-        "author": "JetBrains",
-        "status": true
-    },
-    {
-        "ISBN": 1357913579,
-        "bookName": "C#",
-        "author": "Microsoft",
-        "status": true
-    }
+  {
+    "ISBN": "1234567890",
+    "bookName": "Python",
+    "author": "Guido van Rossum",
+    "status": false
+  },
+  {
+    "ISBN": "1987654321",
+    "bookName": "Java",
+    "author": "James Gosling",
+    "status": false
+  },
+  {
+    "ISBN": "2147483640",
+    "bookName": "C++",
+    "author": "Bjarne Stroustrup",
+    "status": true
+  },
+  {
+    "ISBN": "1122334455",
+    "bookName": "JavaScript",
+    "author": "Brendan Eich",
+    "status": true
+  },
+  {
+    "ISBN": "1029384756",
+    "bookName": "Ruby",
+    "author": "Yukihiro Matsumoto",
+    "status": true
+  },
+  {
+    "ISBN": "2098765432",
+    "bookName": "Swift",
+    "author": "Chris Lattner",
+    "status": true
+  },
+  {
+    "ISBN": "1938472010",
+    "bookName": "Go",
+    "author": "Robert Griesemer",
+    "status": true
+  },
+  {
+    "ISBN": "1827364546",
+    "bookName": "PHP",
+    "author": "Rasmus Lerdorf",
+    "status": true
+  },
+  {
+    "ISBN": "1472583690",
+    "bookName": "Kotlin",
+    "author": "JetBrains",
+    "status": false
+  },
+  {
+    "ISBN": "1357913579",
+    "bookName": "C#",
+    "author": "Microsoft",
+    "status": true
+  }
 ]

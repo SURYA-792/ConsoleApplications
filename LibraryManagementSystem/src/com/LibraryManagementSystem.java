@@ -7,7 +7,6 @@ import com.login.LoginView;
 
 public class LibraryManagementSystem {
 	public static void main(String[] args) {
-		
 		LoginView v = new LoginView();
 		v.init();
 	}
